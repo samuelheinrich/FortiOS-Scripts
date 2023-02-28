@@ -1,0 +1,24 @@
+Name,Tcp,Udp, Comment
+s-tcp/12065,12065,,Opera / CC Terminal outgoing 
+s-tcp/12066,12066,,Opera / CC Terminal outgoing 
+s-tcp/1607,1607,,Opera / CC Terminal outgoing 
+s-tcp/1637,1637,,Opera / CC Terminal outgoing 
+s-tcp/2251,2251,,Opera / CC Terminal outgoing 
+s-tcp/2252,2252,,Opera / CC Terminal outgoing 
+s-tcp/2254,2254,,Opera / CC Terminal outgoing 
+s-tcp/41563,41563,,Opera / CC Terminal outgoing 
+s-tcp/50005,50005,,Opera / CC Terminal outgoing 
+s-tcp/5045,5045,,Opera / CC Terminal outgoing 
+s-tcp/51006,51006,,Opera / CC Terminal outgoing 
+s-tcp/51030,51030,,Opera / CC Terminal outgoing 
+s-tcp/6060,6060,,Opera / CC Terminal outgoing 
+s-tcp/62000,62000,,Opera / CC Terminal outgoing 
+s-tcp/8115,8115,,Opera / CC Terminal outgoing 
+s-tcp/8443,8443,,Opera / CC Terminal outgoing 
+s-tcp/8953,8953,,Opera / CC Terminal outgoing 
+s-tcp/9000,9000,,Opera / CC Terminal outgoing 
+s-udp/53,,53,Opera / CC Terminal outgoing 
+s-tcp/80,80,,Opera / CC Terminal outgoing 
+s-tcp/443,443,,Opera / CC Terminal outgoing 
+s-tcp/25,25,,Opera / CC Terminal outgoing 
+s-tcp/22,22,,Opera / CC Terminal outgoing 

@@ -1,0 +1,12 @@
+﻿vlanname,vdom,ip,allowaccess,description,alias,role,interface,vlanid,status
+vl0700,root,192.29.0.1/24,ping,z-untrust gebäudesteuerung,gebtech,dmz,lacp-trunk1,0700,down
+vl0702,root,192.29.2.1/24,ping,z-untrust videoüberwachung,cctv			,dmz,lacp-trunk1,0702,down
+vl0704,root,192.29.4.1/24,ping,z-untrust zutrittskontrolle,zuko			,dmz,lacp-trunk1,0704,down
+vl0740,root,192.29.40.1/22,ping,z-guest gäste wlan,wlan-guest		,dmz,lacp-trunk1,0740,down
+vl0750,root,192.29.50.1/24,ping,z-wlan mitarebeiter wlan,wlan-byod		,dmz,lacp-trunk1,0750,down
+vl0799,root,192.29.99.1/24,ping,z-dmz sophos legacy vpn,utm-vpn			,dmz,lacp-trunk1,0799,down
+vl0800,root,192.29.100.1/24,ping,z-dmz server dmz internet faces,dmz-public		,dmz,lacp-trunk1,0800,down
+vl0805,root,192.29.105.1/24,ping,z-voice swisscom VOIP router WAN,voice			,dmz,lacp-trunk1,0805,down
+vl4072,root,172.16.72.254/24,ping,z-mgmt transit to vrf mgmt,vrf-mgmt	,lan,lacp-trunk1,0072,down
+vl4073,root,172.16.73.254/24,ping,z-int transit to vrf trust,vrf-trust	,lan,lacp-trunk1,0073,down
+vl4074,root,172.16.74.254/24,ping,z-untrust transit to vrf untust,vrf-untrust,dmz,lacp-trunk1,0074,down

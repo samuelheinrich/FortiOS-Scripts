@@ -1,0 +1,5 @@
+name,subnet,comment,color
+h-172.27.1.10,172.27.1.10 255.255.255.255,VL4000 vrf-data example host1,1
+h-172.27.1.20,172.27.1.20 255.255.255.255,VL4000 vrf-data example host2,2
+h-172.27.1.30,172.27.1.30/32,VL4000 vrf-data example host3,3
+h-172.27.1.40,172.27.1.40/32,VL4000 vrf-data example host4,0
